@@ -61,3 +61,11 @@ input[type=text]{
     border-radius: 10px;
     border:none;
 }
+
+h1{
+
+    color:rgb(216, 96, 40);
+    text-shadow: black 2px 2px;
+    text-decoration: underline;
+
+}
